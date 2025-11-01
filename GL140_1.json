@@ -1,1 +1,9 @@
-
+{
+  "devices": {
+    "GL130_1": {
+      "version": "1.1",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/GL140_1/main/GL140_1_v1.1.bin",
+      "force": false
+    }
+  }
+}
