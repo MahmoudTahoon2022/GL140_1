@@ -1,8 +1,8 @@
 {
   "devices": {
     "GL140_1": {
-      "version": "1.8",
-      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/GL140_1/main/GL140_1_v1.8.bin",
+      "version": "1.9",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/GL140_1/main/GL140_1_v1.9.bin",
       "force": false
     }
   }
